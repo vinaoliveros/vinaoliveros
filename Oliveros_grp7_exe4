@@ -55,7 +55,7 @@ print(my_tuple[2])  # Output: True
 
 Dictionaries 
 # Create a dictionary with string, int, and boolean data types
-my_dict = {"name": "Micou", "age": 21, "is_admin": True}
+my_dict = {"name": "Vivina", "age": 22, "is_admin": True}
 
 # Access elements of the dictionary
 print(my_dict["name"])  # Output: Mico
